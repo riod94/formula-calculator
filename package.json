@@ -1,7 +1,7 @@
 {
-  "name": "formula-calculator",
+  "name": "formula-payroll",
   "version": "0.0.1",
-  "description": "A comprehensive formula calculator library to support Hihono projects.",
+  "description": "A comprehensive formula payroll calculator library to support Hihono projects.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
