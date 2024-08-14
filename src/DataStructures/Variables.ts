@@ -1,4 +1,4 @@
-import MapArrayObject from "src/utils/MapArrayObject";
+import MapArrayObject from "../utils/MapArrayObject";
 
 export default class Variables extends MapArrayObject {
     component: MapArrayObject;
