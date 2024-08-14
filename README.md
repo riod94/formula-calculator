@@ -1,11 +1,11 @@
-# Formula Calculator
+# Formula Payroll Calculator
 
-A comprehensive formula calculator library to support Hihono projects.
+A comprehensive formula payroll calculator library to support Hihono projects.
 
 ## Getting Started
 
 ```sh
-npm install formula-calculator
+npm install formula-payroll
 ```
 
 ## How to use
